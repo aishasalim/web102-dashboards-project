@@ -26,7 +26,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3VramxvdzM3ZmUxNDdqeTVhMmI5N3A2bWpjdHdseTV2Y2RuaDl3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dtl91n1VLG4gpMW54z/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3VramxvdzM3ZmUxNDdqeTVhMmI5N3A2bWpjdHdseTV2Y2RuaDl3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dtl91n1VLG4gpMW54z/giphy.gif
 
 
 ## License
